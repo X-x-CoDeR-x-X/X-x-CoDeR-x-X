@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 *   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+
+  
 -->
 
 ### How to write resume like it
@@ -49,11 +51,7 @@ This post is available on english and russian versions:
    <a href="https://www.linkedin.com/in/evgenii-paikin-654937181/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
- <!--
-   <a href="https://wa.me/972546610848">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
-   </a>
- -->
+
 <p align='center'>
    📫 How to reach me: <a href='mailto:xocderx@gmail.com'>xocderx@gmail.com</a>
 </p>
