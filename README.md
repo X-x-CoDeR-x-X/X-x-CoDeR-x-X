@@ -57,3 +57,8 @@ This post is available on english and russian versions:
 <br>my content please donate</br> 
 </font>
     
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/X-x-CoDeR-x-X/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=X-x-CoDeR-x-X&color=DE002D">
+   </a>
+</div>
