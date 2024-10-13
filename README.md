@@ -21,7 +21,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://wa.me/972546610848">
-      <https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white>
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:xocderx@gmail.com'>xocderx@gmail.com</a>
