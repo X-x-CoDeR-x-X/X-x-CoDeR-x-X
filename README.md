@@ -1,6 +1,7 @@
 <h1 align='center'>
     Hi there 👋! I am Evgeni!
 </h1>
+I am Student Java developer!
 
 <!--
 **X-x-CoDeR-x-X/X-x-CoDeR-x-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Key points
 
-*   Improving my algorithms skils on 
+*   I’m currently learning on [JavaRush](https://javarush.com/) and on [Skillbox] (https://skillbox.ru/) platforms
 
 ## 🛠 Technical Stack
 *   Java
