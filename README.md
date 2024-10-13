@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-	https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white
+<p align='center'>
+   <a href="[https://www.linkedin.com/in/evgenii-paikin-654937181/]">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:xocderx@gmail.com'>xocderx@gmail.com</a>
+</p>
