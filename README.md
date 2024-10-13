@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Hi there 👋
+    Hi there 👋! I am Evgeni!
 </h1>
 
 <!--
@@ -45,7 +45,13 @@ This post is available on english and russian versions:
 <p align='center'>
    📫 How to reach me: <a href='mailto:xocderx@gmail.com'>xocderx@gmail.com</a>
 </p>
+
+
 <p align='center'>
+<font size="4">  
+<br>If you like my</br> 
+<br>content please donate</br> 
+</font>
     <a href="https://www.paypal.com/donate/?business=SCGB2WAKVJXXN&no_recurring=0&currency_code=USD">
         <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
     </a>
