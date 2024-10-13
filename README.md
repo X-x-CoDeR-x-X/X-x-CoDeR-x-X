@@ -49,9 +49,10 @@ This post is available on english and russian versions:
 
 <p align='center'>
 <font size="4">  
-<br>If you like my</br> 
-<br>content please donate</br> 
-</font>
-    <a href="https://www.paypal.com/donate/?business=SCGB2WAKVJXXN&no_recurring=0&currency_code=USD">
+<br>If you like</br> 
+<a href="https://www.paypal.com/donate/?business=SCGB2WAKVJXXN&no_recurring=0&currency_code=USD">
         <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
     </a>
+<br>my content please donate</br> 
+</font>
+    
