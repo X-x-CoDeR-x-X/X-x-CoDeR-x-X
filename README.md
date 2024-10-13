@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=X-x-CoDeR-x-X&show_icons=true&count_private=true" /></a>
 <a href="https://github.com/X-x-CoDeR-x-X/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-x-CoDeR-x-X&layout=compact" /></a>
  </p>
- <!--
+<!--
 ### Key points
 
 *   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 -->
+
 ### How to write resume like it
 I want to say thank's to [romankh3](https://github.com/romankh3/romankh3/tree/main) he wrote post about writing resume on GitHub. 
 This post is available on english and russian versions:
