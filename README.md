@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Key points
 
-*   I’m currently learning on [JavaRush](https://javarush.com/) and on [Skillbox] (https://skillbox.ru/) platforms
+*   I’m currently learning on [JavaRush](https://javarush.com/) and on [Skillbox](https://skillbox.ru/) platforms
 
 ## 🛠 Technical Stack
 *   Java
