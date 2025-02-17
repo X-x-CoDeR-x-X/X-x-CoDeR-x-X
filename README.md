@@ -32,7 +32,7 @@ This post is available on english and russian versions:
    </a>
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:evgenii.payki@gmail.com'>evgenii.payki@gmail.com</a>
+   📫 How to reach me: <a href='mailto:evgenii.paykin@gmail.com'>evgenii.paykin@gmail.com</a>
 </p>
 
 
